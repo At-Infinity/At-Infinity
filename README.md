@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hey, I'm At-Infinity 👋
+
 ### Frontend Developer · UI Enthusiast · Building things that matter
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I+build+experiences%2C+not+just+websites.;AI-powered+web+apps+are+my+thing.;Always+shipping%2C+always+learning.)](https://git.io/typing-svg)
@@ -13,10 +14,10 @@
 
 ```js
 const AtInfinity = {
-  role     : "Frontend Developer",
-  focus    : ["Web Apps", "AI Integrations", "Clean UI"],
+  role: "Frontend Developer",
+  focus: ["Web Apps", "AI Integrations", "Clean UI"],
   currently: "Building smarter shopping experiences with BuyWise",
-  motto    : "If it doesn't solve a problem, it's just decoration.",
+  motto: "If it doesn't solve a problem, it's just decoration.",
 };
 ```
 
@@ -36,14 +37,16 @@ const AtInfinity = {
 ## 🚀 Featured Projects
 
 ### 💡 [BuyWise — Smart Price Comparison](https://github.com/At-Infinity/BuyWise-Smart-Price-Comparison-Website)
+
 > An AI-powered platform that streamlines online shopping by helping users make informed decisions through real-time price comparison.
-`SCSS` · `AI Integration` · `E-Commerce`
+> `SCSS` · `AI Integration` · `E-Commerce`
 
 ---
 
 ### 🌐 [Aspera 5.0](https://github.com/At-Infinity/asperabca)
+
 > Official Aspera 5.0 website — a full frontend build showcasing modern web design.
-`HTML` · `CSS` · `Responsive Design`
+> `HTML` · `CSS` · `Responsive Design`
 
 ---
 
@@ -65,9 +68,9 @@ const AtInfinity = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith-unnikrishnan-422079246/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ucabhijith97@gmail.com)
 
 </div>
 
@@ -75,7 +78,7 @@ const AtInfinity = {
 
 <div align="center">
 
-*"The best UI is the one the user never has to think about."*
+_"The best UI is the one the user never has to think about."_
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=At-Infinity&color=58A6FF&style=flat-square)
 
